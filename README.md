@@ -12,7 +12,7 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" /></a>
-  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50" /></a>
+  <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="40" /></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40" /></a>
   <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
   <a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></a>
