@@ -53,9 +53,6 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://kick.com/diogod2r" target="_blank">
     <img src="https://img.shields.io/badge/-Kick-%2320C20E?style=for-the-badge&logo=kick&logoColor=white">
   </a>
-  <a href="https://d2rt.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-%23000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
   <a href="mailto:diogo@d2rt.com">
     <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
