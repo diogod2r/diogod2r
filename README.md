@@ -22,6 +22,10 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" /></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="50" /></a>
   <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="50" /></a>
+  <a href="https://qgis.org/"><img src="https://skillicons.dev/icons?i=qgis" height="50" /></a>
+  <a href="https://www.autodesk.com/products/autocad/overview"><img src="https://skillicons.dev/icons?i=autocad" height="50" /></a>
+  <a href="https://www.autodesk.com/products/revit/overview"><img src="https://skillicons.dev/icons?i=revit" height="50" /></a>
+
 </div>
 
 ## 📈 GitHub Stats
