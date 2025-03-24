@@ -23,6 +23,7 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="50" /></a>
   <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="50" /></a>
   <a href="https://qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" height="50" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50" /></a>
 </div>
 
 ## 📈 GitHub Stats
