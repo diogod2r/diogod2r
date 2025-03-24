@@ -24,6 +24,7 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" /></a>
   <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="40" /></a>
   <a href="https://qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" height="40" /></a>
+  <a href="https://pm2.keymetrics.io/"><img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/pm2-icon.svg" height="40" /></a>
   <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" /></a>
 </div>
 
