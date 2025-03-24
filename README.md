@@ -41,11 +41,14 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://linkedin.com/in/diogod2r" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://instagram.com/diogod2r" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="mailto:diogo@d2rt.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.youtube.com/@diogod2r" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://discord.gg/8msbhV7" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
   </a>
   <a href="https://www.twitch.tv/diogod2r" target="_blank">
     <img src="https://img.shields.io/badge/-Twitch-%239146FF?style=for-the-badge&logo=twitch&logoColor=white">
@@ -53,13 +56,12 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://kick.com/diogod2r" target="_blank">
     <img src="https://img.shields.io/badge/-Kick-%2320C20E?style=for-the-badge&logo=kick&logoColor=white">
   </a>
-  <a href="mailto:diogo@d2rt.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  <a href="https://x.com/diogod2r" target="_blank">
+    <img src="https://img.shields.io/badge/-X.com-%23000000?style=for-the-badge&logo=x&logoColor=white" style="background-color: black; height: 28px;">
   </a>
-  <a href="https://discord.gg/8msbhV7" target="_blank">
-  <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-</a>
-<a href="https://x.com/diogod2r" target="_blank"> <img src="https://img.shields.io/badge/-X.com-%23000000?style=for-the-badge&logo=x&logoColor=white" style="background-color: black; height: 28px;"></a>
+  <a href="https://instagram.com/diogod2r" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
 
 ---
