@@ -9,22 +9,22 @@ I'm a passionate developer who loves technology, always looking to learn and cre
 ### 💻 Technologies & Tools
 
 <div align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="50" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="50" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" height="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" height="40" /></a>
   <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" height="50" /></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="50" /></a>
-  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="50" /></a>
-  <a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="50" /></a>
-  <a href="https://geoserver.org/"><img src="https://avatars.githubusercontent.com/u/186522?s=200&v=4" height="50" /></a>
-  <a href="https://leafletjs.com/"><img src="https://img.icons8.com/color/50/000000/leaf.png" height="50" /></a>
-  <a href="https://ollama.com/"><img src="https://ollama.com/public/icon-64x64.png" height="50" /></a>
-  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="50" /></a>
-  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" /></a>
-  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="50" /></a>
-  <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="50" /></a>
-  <a href="https://qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" height="50" /></a>
-  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="50" /></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" height="40" /></a>
+  <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="40" /></a>
+  <a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="40" /></a>
+  <a href="https://geoserver.org/"><img src="https://avatars.githubusercontent.com/u/186522?s=200&v=4" height="40" /></a>
+  <a href="https://leafletjs.com/"><img src="https://img.icons8.com/color/50/000000/leaf.png" height="40" /></a>
+  <a href="https://ollama.com/"><img src="https://ollama.com/public/icon-64x64.png" height="40" /></a>
+  <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="40" /></a>
+  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" /></a>
+  <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" /></a>
+  <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="40" /></a>
+  <a href="https://qgis.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/77/Qgis-icon-3.0.png" height="40" /></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" height="40" /></a>
 </div>
 
 ## 📈 GitHub Stats
