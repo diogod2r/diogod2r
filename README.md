@@ -30,8 +30,8 @@ I'm a passionate developer who loves technology, always looking to learn and cre
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" width="432em" src="https://github-readme-stats.vercel.app/api?username=diogod2r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="432em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogod2r&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" min-width="432em" src="https://github-readme-stats.vercel.app/api?username=diogod2r&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" min-width="432em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogod2r&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 🌐 Connect With Me
