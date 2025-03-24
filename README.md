@@ -18,6 +18,7 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://www.cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" height="50" /></a>
   <a href="https://geoserver.org/"><img src="https://avatars.githubusercontent.com/u/186522?s=200&v=4" height="50" /></a>
   <a href="https://leafletjs.com/"><img src="https://img.icons8.com/color/50/000000/leaf.png" height="50" /></a>
+  <a href="https://ollama.com/"><img src="https://ollama.com/public/ollama.png" height="50" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="50" /></a>
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="50" /></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="50" /></a>
