@@ -21,7 +21,7 @@ I'm a passionate developer who loves technology, always looking to learn and cre
   <a href="https://ollama.com/"><img src="https://ollama.com/public/icon-64x64.png" height="40" /></a>
   <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" height="40" /></a>
   <a href="https://websocket.org/"><img src="https://www.svgrepo.com/show/354553/websocket.svg" height="40" /></a>
-  <a href="https://webrtc.org/"><img src="https://www.gstatic.com/devrel-devsite/prod/vd31e3ed8994e05c7f2cd0cf68a402ca7902bb92b6ec0977d7ef2a1c699fae3f9/webrtc/images/favicon.png" height="40" /></a>
+  <a href="https://webrtc.org/"><img src="https://www.svgrepo.com/show/354551/webrtc.svg" height="40" /></a>
   <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" height="40" /></a>
   <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="40" /></a>
   <a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" height="40" /></a>
